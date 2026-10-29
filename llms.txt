@@ -1,0 +1,8 @@
+# TX3 Funding Discount Codes
+
+This dataset tracks historical deal observations for TX3 Funding from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFDC (25%)
+Works any time on all TX3 Funding challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
