@@ -1,31 +1,43 @@
-# TX3 Funding - Discount Codes & Deal History
+# TX3 Funding Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-27, the verified TX3 Funding discount code is **PFDC** — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/tx3-funding/
+- Code: PFDC
+- Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-27
+- Trustpilot: 3/5 (4310 reviews)
+- Activate: https://propfirmdiscount.com/go/tx3funding
+- Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** PFDC (works any time; live rate always on prop firm page)
+## Current TX3 Funding deal: 35% off challenge accounts for Halloween week
 
-Use discount code **PFDC** to get **25% off** on TX3 Funding challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all TX3 Funding evaluation accounts.
+- Published: 2026-10-27
+- Offer ends: 2026-10-31 23:59
+- Offer: 35% off
+- Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/
+
+## TX3 Funding discount code FAQ
+
+**What is the TX3 Funding discount code?**
+
+PFDC. It is verified by PropFirmDiscount.com and takes up to 25% off TX3 Funding challenges and accounts.
+
+**Does the TX3 Funding discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current TX3 Funding deal?**
+
+**35% off challenge accounts for Halloween week** — published 2026-10-27. Offer ends: 2026-10-31 23:59. The offer is 35% off.
 
 ---
 
-## Latest Deal
-
-### TX3 Funding - 35% off challenge accounts for Halloween week
-
-**Published:** 2026-10-27  
-**Offer ends:** 2026-10-31 23:59  
-**Discount:** 35% off  
-**Scope:** Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **63**
 
@@ -104,19 +116,20 @@ Total deals tracked: **63**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **TX3 Funding** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **TX3 Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/tx3-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/tx3-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
