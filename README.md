@@ -17,6 +17,7 @@ As of 2026-10-27, the verified TX3 Funding discount code is **PFDC** — up to 2
 - Published: 2026-10-27
 - Offer ends: 2026-10-31 23:59
 - Offer: 35% off
+- Event: Halloween
 - Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/
@@ -45,13 +46,13 @@ Total deals tracked: **63**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-27 | 35% off challenge accounts for Halloween week | 35% off | 2026-10-31 23:59 | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) |
-| 2026-10-27 | 40% off Instant accounts for Halloween week | 40% off | 2026-10-31 23:59 | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) |
-| 2026-10-26 | 35% off every account in a Halloween weekend flash | 35% off | 2026-10-25 23:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) |
-| 2026-10-20 | 30% Off All Accounts in Halloween Promotion | 30% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/) |
+| 2026-10-27 | 35% off challenge accounts for Halloween week | 35% off | 2026-10-31 23:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) |
+| 2026-10-27 | 40% off Instant accounts for Halloween week | 40% off | 2026-10-31 23:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) |
+| 2026-10-26 | 35% off every account in a Halloween weekend flash | 35% off | 2026-10-25 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) |
+| 2026-10-20 | 30% Off All Accounts in Halloween Promotion | 30% off | 2026-10-25 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/) |
 | 2026-10-20 | 35% Off All Challenge Types for New Members | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/) |
-| 2026-10-17 | 30% Discount and 150% Refund on Prop Firm Challenges | 30% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/) |
-| 2026-10-13 | Haunted Highs Event: 25% Cost Reduction and 90% Split | 25% off | 2026-10-18 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/) |
+| 2026-10-17 | 30% Discount and 150% Refund on Prop Firm Challenges | 30% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-flash-30-off/) |
+| 2026-10-13 | Haunted Highs Event: 25% Cost Reduction and 90% Split | 25% off | 2026-10-18 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-haunted-highs-25-off/) |
 | 2026-10-07 | 20% Off All Accounts Harvest Week | 20% off | 2026-10-11 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-all-accounts/) |
 | 2026-08-13 | 40% Discount on Instant Standard and Instant Pro Account Purchase Costs | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-40-off-instant-standard-instant-pro/) |
 | 2026-08-08 | 35% Off SX Model Challenge Pricing | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-sx-model/) |
@@ -62,11 +63,11 @@ Total deals tracked: **63**
 | 2026-07-15 | 26% Off All Challenges | 26% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-26-off-all-challenges/) |
 | 2026-07-08 | Save 30% on GTX Redline Futures Challenge: Compare Upfront Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-gtx-redline-futures/) |
 | 2026-07-08 | Save 30% on All FX Evaluation Accounts: Compare Challenge Fees | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-fx-challenges/) |
-| 2026-07-03 | 30% Off All Evaluation Accounts ($5K to $300K) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) |
+| 2026-07-03 | 30% Off All Evaluation Accounts ($5K to $300K) | 30% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-independence-day-promotion/) |
 | 2026-07-02 | 30% Off All Evaluation Challenges ($5K-$300K) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-evaluation-challenges/) |
 | 2026-07-01 | 30% Off GTX Redline Evaluation Cost | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-gtx-redline/) |
-| 2026-06-17 | 30% Off All Evaluation Accounts ($5K - $300K) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-challenges-world-cup/) |
-| 2026-06-10 | World Cup Promotion: 26% Off All Evaluation Accounts (5K to 300K) | 26% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-world-cup-26-off/) |
+| 2026-06-17 | 30% Off All Evaluation Accounts ($5K - $300K) | 30% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-challenges-world-cup/) |
+| 2026-06-10 | World Cup Promotion: 26% Off All Evaluation Accounts (5K to 300K) | 26% off | Ended | World Cup | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-world-cup-26-off/) |
 | 2026-05-29 | 25% Off Challenge Pricing | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-25-percent-off-discount/) |
 | 2026-05-08 | 15% Off Instant Funding Standard Pricing | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/15-off-instant-funding-standard/) |
 | 2026-05-08 | 15% Off Instant Standard Accounts Entry Fee | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-15-off-instant-standard/) |
@@ -85,25 +86,25 @@ Total deals tracked: **63**
 | 2026-03-17 | 20% Off Pro and One Phase 25K-100K Evaluation Accounts | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-25k-100k-pro-one-phase/) |
 | 2026-03-04 | 100% Initial Capital Match Up To $10,000 Maximum | Full Deposit Bonus | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-100-percent-deposit-bonus-10000-limit/) |
 | 2026-02-27 | 25% Off Select Pro, One Phase and Flex Evaluation Accounts | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-25-off-pro-one-phase-flex-challenges/) |
-| 2026-02-13 | 20% Discount on Selected Evaluation Accounts - Ends Feb 27 | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-promo/) |
+| 2026-02-13 | 20% Discount on Selected Evaluation Accounts - Ends Feb 27 | 20% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-promo/) |
 | 2026-02-04 | 25% Off Entry Cost for All Challenges on A-Trader Platform Until Feb 15 | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-25-off-atrader-platform/) |
 | 2026-01-31 | 22% Off 5K-100K Evaluation Accounts | 22% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-22-off-5k-100k-challenges/) |
 | 2026-01-17 | One Phase Offer: 25% Off Select Evaluation Accounts | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-25-off-one-phase-pro-flex/) |
 | 2026-01-13 | Flash Sale: 40% Off MT5 Challenge Fees | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-flash-sale-40-off-mt5/) |
-| 2026-01-03 | New Year Deal: 20% OFF All Challenges | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-new-year-promotion/) |
+| 2026-01-03 | New Year Deal: 20% OFF All Challenges | 20% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-new-year-promotion/) |
 
 ### 2025 (17 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-19 | Year End Savings: 30% Off Pro & One Phase Models | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-pro-one-phase/) |
-| 2025-12-19 | Year End Savings: 35% Off Flex Challenges | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-flex-challenges/) |
+| 2025-12-19 | Year End Savings: 30% Off Pro & One Phase Models | 30% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-pro-one-phase/) |
+| 2025-12-19 | Year End Savings: 35% Off Flex Challenges | 35% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-year-end-savings-flex-challenges/) |
 | 2025-12-05 | Holiday Sale: 20% OFF Forex & Futures Accounts | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-holiday-sale-20-off-forex-futures/) |
-| 2025-12-01 | Cyber Monday Sale: 30% OFF Forex Challenges | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-cyber-monday-30-off-forex/) |
-| 2025-12-01 | Cyber Monday Deal: 35% OFF All Futures Challenges | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-cyber-monday-35-off-futures/) |
-| 2025-11-22 | Black Friday Sale: 35% Off All Challenges | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-sale/) |
-| 2025-11-07 | Pre-Black Friday — 30% OFF Forex Challenges + 80% Profit Split & 100% Refund | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-pre-black-friday-30-off-forex-challenges-80-profit-split-100-refund/) |
-| 2025-10-27 | Early Halloween: 25% OFF All Challenge Types & Sizes (Ends Nov 7, 2025) | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-early-halloween-25-off-all-challenges-ends-nov-7-2025/) |
+| 2025-12-01 | Cyber Monday Sale: 30% OFF Forex Challenges | 30% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-cyber-monday-30-off-forex/) |
+| 2025-12-01 | Cyber Monday Deal: 35% OFF All Futures Challenges | 35% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-cyber-monday-35-off-futures/) |
+| 2025-11-22 | Black Friday Sale: 35% Off All Challenges | 35% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-35-off-sale/) |
+| 2025-11-07 | Pre-Black Friday — 30% OFF Forex Challenges + 80% Profit Split & 100% Refund | 30% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-pre-black-friday-30-off-forex-challenges-80-profit-split-100-refund/) |
+| 2025-10-27 | Early Halloween: 25% OFF All Challenge Types & Sizes (Ends Nov 7, 2025) | 25% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-early-halloween-25-off-all-challenges-ends-nov-7-2025/) |
 | 2025-10-20 | 25% OFF Starter & Pro Plans (Ends Oct 31) | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-25-off-starter-pro-plans-ends-oct-31/) |
 | 2025-10-10 | 25% OFF Flex & Pro Challenges (October Challenge Sale) | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-25-off-flex-pro-challenges-october-challenge-sale/) |
 | 2025-10-10 | 20% OFF One Phase Challenge (October Challenge Sale) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-20-off-one-phase-challenge-october-challenge-sale/) |
