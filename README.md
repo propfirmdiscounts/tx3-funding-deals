@@ -1,6 +1,6 @@
 # TX3 Funding Discount Code
 
-As of 2026-10-27, the verified TX3 Funding discount code is **PFDC** — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-27, the verified TX3 Funding discount code is PFDC — up to 25% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: PFDC
 - Discount: Up to 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
