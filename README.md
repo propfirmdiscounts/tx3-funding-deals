@@ -15,7 +15,7 @@ As of 2026-10-27, the verified TX3 Funding discount code is PFDC — up to 25% O
 ## Current TX3 Funding deal: 35% off challenge accounts for Halloween week
 
 - Published: 2026-10-27
-- Offer ends: 2026-10-31 23:59
+- Offer ends: 2026-10-31 23:59 (ended)
 - Offer: 35% off
 - Event: Halloween
 - Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts
@@ -34,7 +34,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current TX3 Funding deal?**
 
-**35% off challenge accounts for Halloween week** — published 2026-10-27. Offer ends: 2026-10-31 23:59. The offer is 35% off.
+**35% off challenge accounts for Halloween week** — published 2026-10-27. Offer ends: 2026-10-31 23:59 (ended). The offer is 35% off.
 
 ---
 
@@ -46,8 +46,8 @@ Total deals tracked: **63**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-27 | 35% off challenge accounts for Halloween week | 35% off | 2026-10-31 23:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) |
-| 2026-10-27 | 40% off Instant accounts for Halloween week | 40% off | 2026-10-31 23:59 | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) |
+| 2026-10-27 | 35% off challenge accounts for Halloween week | 35% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) |
+| 2026-10-27 | 40% off Instant accounts for Halloween week | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) |
 | 2026-10-26 | 35% off every account in a Halloween weekend flash | 35% off | 2026-10-25 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) |
 | 2026-10-20 | 30% Off All Accounts in Halloween Promotion | 30% off | 2026-10-25 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-30-off-all-accounts-halloween/) |
 | 2026-10-20 | 35% Off All Challenge Types for New Members | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-35-off-all-challenge-types-new-members/) |
