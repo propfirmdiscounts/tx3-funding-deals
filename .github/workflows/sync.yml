@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: tx3funding
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: tx3-funding
   DEALSTORE_ID: 63
   FIRM_NAME: TX3 Funding
