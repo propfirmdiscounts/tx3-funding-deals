@@ -7,10 +7,11 @@ As of 2026-11, the verified TX3 Funding discount code is PFDC — 50% OFF, works
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-27
 - Trustpilot: 3/5 (4309 reviews)
-- Activate: https://propfirmdiscount.com/go/tx3funding
-- Firm page: https://propfirmdiscount.com/prop-firm/tx3-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/tx3-funding-deals](https://github.com/propfirmdiscounts/tx3-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/tx3funding](https://propfirmdiscount.com/go/tx3funding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/tx3-funding/](https://propfirmdiscount.com/prop-firm/tx3-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current TX3 Funding deal: 35% off challenge accounts for Halloween week
 
@@ -20,7 +21,7 @@ As of 2026-11, the verified TX3 Funding discount code is PFDC — 50% OFF, works
 - Event: Halloween
 - Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/
+- Deal page: [https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/)
 
 ## TX3 Funding discount code FAQ
 
@@ -121,9 +122,9 @@ Total deals tracked: **63**
 
 This repository mirrors every deal **TX3 Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/tx3-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/tx3-funding/](https://propfirmdiscount.com/prop-firm/tx3-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/tx3-funding-deals.json`
 
