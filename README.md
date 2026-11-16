@@ -1,10 +1,10 @@
-# TX3 Funding - Discount Codes & Deal History
+# TX3 Funding Discount Code & Deal History
 
-As of November 2026, the verified TX3 Funding discount code is PFDC — 25% OFF, which can be applied on the checkout page anytime. The newest is "35% off challenge accounts for Halloween week".
+As of November 2026, the verified TX3 Funding discount code is PFDC — 50% OFF, which can be applied on the checkout page anytime. The newest is "35% off challenge accounts for Halloween week".
 
 - Code: PFDC
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-27
 - Trustpilot: 3/5 (4309 reviews)
 - GitHub repository: [TX3 Funding Deals Repository](https://github.com/propfirmdiscounts/tx3-funding-deals)
@@ -13,7 +13,7 @@ As of November 2026, the verified TX3 Funding discount code is PFDC — 25% OFF,
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [TX3 Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current TX3 Funding deal: 35% off challenge accounts for Halloween week
+## Latest TX3 Funding deal: 35% off challenge accounts for Halloween week
 
 - Published: 2026-10-27
 - Offer ends: 2026-10-31 23:59 (ended)
@@ -23,7 +23,7 @@ As of November 2026, the verified TX3 Funding discount code is PFDC — 25% OFF,
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [TX3 Funding Deal Page](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/)
 
-## TX3 Funding discount code FAQ
+## TX3 Funding Discount Code & Deals FAQ
 
 **What is the TX3 Funding discount code?**
 
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## TX3 Funding Deal History
 
 Total deals tracked: **63**
 
@@ -118,7 +118,7 @@ Total deals tracked: **63**
 
 ---
 
-## About this repository
+## About the TX3 Funding Deals Dataset
 
 This repository mirrors every deal **TX3 Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -126,7 +126,7 @@ This repository mirrors every deal **TX3 Funding** has published on PropFirmDisc
 - Prop firm profile: [TX3 Funding Profile](https://propfirmdiscount.com/prop-firm/tx3-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/tx3-funding-deals.json`
+## TX3 Funding Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -158,13 +158,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
