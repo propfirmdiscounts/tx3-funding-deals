@@ -6,7 +6,7 @@ As of November 2026, the verified TX3 Funding discount code is PFDC — 50% OFF,
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-27
-- Trustpilot: 3/5 (4309 reviews)
+- Trustpilot: [3/5 (4310 reviews)](https://www.trustpilot.com/review/www.tx3funding.com)
 - GitHub repository: [TX3 Funding Deals Repository](https://github.com/propfirmdiscounts/tx3-funding-deals)
 - Activate: [Activate TX3 Funding Discount Code](https://propfirmdiscount.com/go/tx3funding)
 - Firm page: [TX3 Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/tx3-funding/)
