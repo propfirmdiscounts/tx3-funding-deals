@@ -1,4 +1,4 @@
-# TX3 Funding Discount Codes
+# TX3 Funding Discount Code & Deals History
 
 This dataset tracks historical deal observations for TX3 Funding from PropFirmDiscount.com.
 
