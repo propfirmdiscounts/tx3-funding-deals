@@ -1,9 +1,9 @@
 # TX3 Funding Discount Code, Deals History & Dataset
 
-As of November 2026, the verified TX3 Funding discount code is PFDC — 50% OFF, which can be applied on the checkout page anytime. The newest is "35% off challenge accounts for Halloween week".
+As of November 2026, the verified TX3 Funding discount code is PFDC — 25% OFF, which can be applied on the checkout page anytime. The newest is "Black Friday: 50% Off All".
 
 - Code: PFDC
-- Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 25% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-27
 - Trustpilot: [3/5 (4310 reviews)](https://www.trustpilot.com/review/www.tx3funding.com)
@@ -13,21 +13,21 @@ As of November 2026, the verified TX3 Funding discount code is PFDC — 50% OFF,
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [TX3 Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest TX3 Funding deal: 35% off challenge accounts for Halloween week
+## Latest TX3 Funding deal: Black Friday: 50% Off All
 
-- Published: 2026-10-27
-- Offer ends: 2026-10-31 23:59 (ended)
-- Offer: 35% off
-- Event: Halloween
-- Scope: Challenges, 1 Phase, 2 Phase Flex, 2 Phase Pro, $100K Accounts
+- Published: 2026-11-19
+- Offer ends: 2026-11-26 23:59
+- Offer: 50% off
+- Event: Black Friday
+- Scope: All Accounts (Instant, Core, Prestige)
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [TX3 Funding Deal Page](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/)
+- Deal page: [TX3 Funding Deal Page](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/)
 
 ## TX3 Funding Discount Code & Deals History FAQ
 
 **What is the TX3 Funding discount code?**
 
-PFDC. It is verified by PropFirmDiscount.com and takes 50% off TX3 Funding challenges and accounts.
+PFDC. It is verified by PropFirmDiscount.com and takes 25% off TX3 Funding challenges and accounts.
 
 **Does the TX3 Funding discount code expire?**
 
@@ -35,18 +35,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current TX3 Funding deal?**
 
-**35% off challenge accounts for Halloween week** — published 2026-10-27. Offer ends: 2026-10-31 23:59 (ended). The offer is 35% off.
+**Black Friday: 50% Off All** — published 2026-11-19. Offer ends: 2026-11-26 23:59. The offer is 50% off.
 
 ---
 
 ## TX3 Funding Deals History
 
-Total deals tracked: **63**
+Total deals tracked: **64**
 
-### 2026 (46 deals)
+### 2026 (47 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-19 | TX3 Funding: Black Friday: 50% Off All | 50% off | 2026-11-26 23:59 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-black-friday-50-off-all-accounts/) |
 | 2026-10-27 | TX3 Funding: 35% off challenge accounts for Halloween week | 35% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-challenges-35-off/) |
 | 2026-10-27 | TX3 Funding: 40% off Instant accounts for Halloween week | 40% off | 2026-10-31 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-halloween-instant-funded-40-off/) |
 | 2026-10-26 | TX3 Funding: 35% off every account in a Halloween weekend flash | 35% off | 2026-10-25 23:59 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/tx3-funding/tx3-funding-graveyard-shift-35-off-all-accounts/) |
